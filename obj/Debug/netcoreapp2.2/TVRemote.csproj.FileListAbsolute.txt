@@ -1,0 +1,11 @@
+C:\Users\Shi\source\repos\TVRemote\TVRemote\bin\Debug\netcoreapp2.2\TVRemote.deps.json
+C:\Users\Shi\source\repos\TVRemote\TVRemote\bin\Debug\netcoreapp2.2\TVRemote.runtimeconfig.json
+C:\Users\Shi\source\repos\TVRemote\TVRemote\bin\Debug\netcoreapp2.2\TVRemote.runtimeconfig.dev.json
+C:\Users\Shi\source\repos\TVRemote\TVRemote\bin\Debug\netcoreapp2.2\TVRemote.dll
+C:\Users\Shi\source\repos\TVRemote\TVRemote\bin\Debug\netcoreapp2.2\TVRemote.pdb
+C:\Users\Shi\source\repos\TVRemote\TVRemote\obj\Debug\netcoreapp2.2\TVRemote.csprojAssemblyReference.cache
+C:\Users\Shi\source\repos\TVRemote\TVRemote\obj\Debug\netcoreapp2.2\TVRemote.csproj.CoreCompileInputs.cache
+C:\Users\Shi\source\repos\TVRemote\TVRemote\obj\Debug\netcoreapp2.2\TVRemote.AssemblyInfoInputs.cache
+C:\Users\Shi\source\repos\TVRemote\TVRemote\obj\Debug\netcoreapp2.2\TVRemote.AssemblyInfo.cs
+C:\Users\Shi\source\repos\TVRemote\TVRemote\obj\Debug\netcoreapp2.2\TVRemote.dll
+C:\Users\Shi\source\repos\TVRemote\TVRemote\obj\Debug\netcoreapp2.2\TVRemote.pdb
